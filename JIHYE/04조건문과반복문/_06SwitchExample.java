@@ -7,7 +7,7 @@ public class _06SwitchExample {
         switch(num) {
             case 1 :
                 System.out.println("1번이 나왔습니다.");
-                break;									// 각 case에 break를 걸어주는 이유는 break를 하지 않으면 선택된 수 이후에 해당하는 실행문도 같이 실행되기 때문
+                break;							// 각 case에 break를 걸어주는 이유는 break를 하지 않으면 선택된 수 이후에 해당하는 실행문도 같이 실행되기 때문
             case 2 :
                 System.out.println("2번이 나왔습니다.");
                 break;
