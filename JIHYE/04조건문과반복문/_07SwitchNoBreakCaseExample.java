@@ -7,7 +7,7 @@ public class _07SwitchNoBreakCaseExample {
 
         switch(time) {
             case 8:
-                System.out.println("출근합니다.");				// break; 가 없는 이유는 랜덤수 이후 수에 해당하는 문장들도 실행되어야 하기 때문.
+                System.out.println("출근합니다.");		// break; 가 없는 이유는 랜덤수 이후 수에 해당하는 문장들도 실행되어야 하기 때문.
             case 9:
                 System.out.println("회의를 합니다.");
             case 10:
